@@ -7,9 +7,8 @@ int main(int argc, char *argv[]){
     std::cout << argc << " hello " << text << std::endl;
 
     
-    std::cout << "hello from branch tmpeioigheoghe";
 
-    //ыпрцпрщш
+    std::cout << "heqwfeghewhbranch tmp";
 
 
 
