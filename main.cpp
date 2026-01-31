@@ -6,6 +6,8 @@ int main(int argc, char *argv[]){
 
     std::cout << argc << " hello " << text;
 
+    //ыпрцпрщш
+
 
     return 0;
 }
