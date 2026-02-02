@@ -8,3 +8,7 @@ bool plus(int a){
         return false;
     }
 }
+
+int sum(int a, int b){
+    return a + b;
+}
