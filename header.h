@@ -12,3 +12,7 @@ bool plus(int a){
 int sum(int a, int b){
     return a + b;
 }
+
+bool more(int a, int b){
+    return a > b;
+}
