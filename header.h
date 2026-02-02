@@ -16,3 +16,7 @@ int sum(int a, int b){
 bool more(int a, int b){
     return a > b;
 }
+
+void hello(){
+    std::cout << "hello" << std::endl;
+}
